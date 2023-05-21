@@ -34,6 +34,8 @@
 - [clique para visualizar](https://app.swaggerhub.com/apis-docs/LUANSSRR/VocaTalk/1.0.1#/) 
 # Aquitetura do projeto:
 
-<div id="arquitetura-projeto">
-    <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rln6AQiJfJzdC5VUvrtJEdi1a0ztA1gfM87A8bAlZagbPZlaFOwVsBfJuZa73le8X9fXfO9GO7JvPZFbprb3f_IuMK=w1366-h657"></img>
+# Aquitetura do projeto:
+
+<div id="arquitetura-projeto" style="background-color: white; padding: 10px; border-radius: 10px;">
+    <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81ry6W63ViMFulcYVaZ0kpqN4xKEkZmEHrRciHC0VpqFt2DyuZKjL7xM2QOz0sD80jE9hWB8LN_wx3fQ9De7CGTdPyCu6A=w1366-h657" />
 </div>
